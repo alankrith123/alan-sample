@@ -1,0 +1,2 @@
+# alan-sample
+first respository
